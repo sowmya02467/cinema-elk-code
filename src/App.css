@@ -1,0 +1,26 @@
+
+.scrollBar{
+  display: flex;
+  overflow-x: auto;
+
+}
+
+
+.scrollBar ::-webkit-scrollbar{
+  display: none;
+}
+
+.scroll{
+
+  overflow-y: auto;
+  
+}
+
+
+.scroll ::-webkit-scrollbar{
+  display: none;
+} 
+
+
+
+
